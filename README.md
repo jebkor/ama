@@ -1,6 +1,6 @@
 # jebkor/ama
 
-Here you can send me your ask-[me](https://blog.jebkor.dk/about-me)-anything questions. I like this format, because it defers from the "standard" blog-comment, like or email kind of deal.
+Here you can send me your ask-[me](https://blog.jebkor.dk/about)-anything questions. I like this format, because it defers from the "standard" blog-comment, like or email kind of deal.
 
 ---
 
