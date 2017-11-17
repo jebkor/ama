@@ -27,4 +27,4 @@ into some of the older threads.
 ### Twitter
 
 If you don't like this format, just shoot me a DM on Twitter. The new 280 character format creates new possibilities. 
-I'm [@jebkor_](https://twitter.com/jebkor)!
+I'm [@jebkor_](https://twitter.com/jebkor_)!
